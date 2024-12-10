@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp6
 {
-    public class Calculator
+    public partial class Calculator
     {
         public int Mult(int a, int b)
         {
             return a * b;
         }
+
 
     }
 }
